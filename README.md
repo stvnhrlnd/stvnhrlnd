@@ -5,8 +5,8 @@ Hi 👋, I'm Steven, a software developer and offensive security professional ba
 ### 🚀 Current Projects
 
 - [fr1end1y](https://github.com/Full-Hack-Developer/fr1end1y) - A starter kit for Umbraco-powered Eleventy sites.
-- [donutsec.fun](https://github.com/stvnhrlnd/donutsec.fun) - The source code for my Eleventy blog site.
-- [fullhack.dev](https://github.com/Full-Hack-Developer/fullhack.dev) - The source code for my Eleventy business site.
+- [donutsec.fun](https://github.com/stvnhrlnd/donutsec.fun) - The source code for my blog (built on Eleventy).
+- [fullhack.dev](https://github.com/Full-Hack-Developer/fullhack.dev) - The source code for my business site (built on Eleventy).
 - [CMSup](https://github.com/stvnhrlnd/cmsup) - A Bash script to prepare a Ubuntu system for Umbraco source debugging.
 - [Multipass Launch Script](https://github.com/stvnhrlnd/multipass-launch-script) - A Bash script I use to spin up and configure Multipass instances.
 
