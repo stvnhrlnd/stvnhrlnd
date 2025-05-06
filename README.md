@@ -26,6 +26,6 @@ Hi 👋, I'm Steven, a software developer and offensive security professional ba
 ### 🔗 Other Links
 
 - Blog: [DonutSec](https://donutsec.fun/)
-- Business: [Full-Hack Developer](https://fullhack.dev/)
+- Business: [Etive Mòr](https://www.etive-mor.com/)
 - Mastodon: [@stvnhrlnd@umbracocommunity.social](https://umbracocommunity.social/@stvnhrlnd)
 - LinkedIn: [in/stvnhrlnd](https://www.linkedin.com/in/stvnhrlnd)
